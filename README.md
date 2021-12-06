@@ -1,0 +1,6 @@
+BÀI TẬP LỚN MÔN LẬP TRÌNH VỚI PYTHON
+
+THÀNH VIÊN:
+  ĐẶNG THỊ VÂN ANH
+  NGUYỄN THỊ LAN ANH
+  TRỊNH HƯNG ĐẠO
